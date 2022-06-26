@@ -1,0 +1,4 @@
+#Thu Nov 11 18:58:46 EET 2021
+base.0=E\:\\VR diploma Projects\\Week4_AR_1\\android apk\\Week4_AR_1\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
